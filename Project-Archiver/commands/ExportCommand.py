@@ -16,6 +16,9 @@ from apper import AppObjects
 
 import config
 
+import unicodedata
+import re
+
 SKIPPED_FILES = []
 
 
