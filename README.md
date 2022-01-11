@@ -1,4 +1,6 @@
 # Project-Archiver
+**UPDATE 1/11/22 Added dependencies in ExportCommand.py.**
+
 The archiver script will open all Fusion 360 3D data in a project and export it as STEP to a local location of your choosing. 
 
 [How to install](#How-to-install)  
